@@ -6,7 +6,7 @@ const RightBanner = () => {
     <div className="w-full lgl:w-1/2 flex justify-center items-center relative">
       <img
         className="w-[200px] h-[200px] lgl:w-[500px] lgl:h-[600px] z-10"
-        src="../images/eve.png"
+        src="../images/evans.jpg"
         alt="bannerImg"
       />
       

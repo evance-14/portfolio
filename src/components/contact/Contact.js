@@ -50,7 +50,8 @@ const Contact = () => {
     }
     // e.preventDefault();
 
-    emailjs.sendForm('service_4zxtp7c', 'template_na5jht5', form.current, 'krjzhMpZHbpXZZqIv')
+    //emailjs.sendForm('service_nfy1it3', 'template_na5jht5', form.current, 'krjzhMpZHbpXZZqIv')
+    emailjs.sendForm("service_nfy1it3","template_vqxmvzg", form.current, "kMJQkHI-mk26BkCsV")
       .then((result) => {
           console.log(result.text);
       }, (error) => {

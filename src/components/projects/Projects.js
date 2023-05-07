@@ -11,8 +11,8 @@ const Projects = () => {
     >
       <div className="flex justify-center items-center text-center">
         <Title
-          title="VISIT MY PORTFOLIO AND GIVE YOUR FEEDBACK"
-          des="My Projects"
+          title="Discover My Portfolio: Feedback Appreciated!"
+          des="Exciting Projects Await! Explore, Engage, and Share Your Feedback."
         />
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
